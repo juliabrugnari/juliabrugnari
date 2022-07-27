@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou a Julia 👋
 
-<!--
-**juliabrugnari/juliabrugnari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/julia-brugnari-pedro-longo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliabrugnari@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](18996526948)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=juliabrugnari&show_icons=true&theme=radical)
+
+### Tecnologias que uso no meu dia:
+
+<img aline="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img aline="center" alt="Python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+👩🏻‍💻 Estou cursando o último período da graduação de Tecnologia em Ciência de Dados, na FATEC-Ourinhos, até aqui aprendi e evolui muito na área e busco aprimorar a cada dia!
